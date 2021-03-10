@@ -1,0 +1,10 @@
+.cardText {
+    font-size: 50px;
+    text-shadow: black 2px 2px 0, black -2px -2px 0, 
+    black -2px 2px 0, black 2px -2px 0;
+}
+.cardText h5 {
+    font-size: 70px;
+    text-shadow: black 2px 2px 0, black -2px -2px 0, 
+    black -2px 2px 0, black 2px -2px 0;
+}
